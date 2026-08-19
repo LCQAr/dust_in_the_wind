@@ -6,7 +6,7 @@ A set of Python scripts to estimate particulate matter emissions from wind-blown
 
 The emission calculation is based on the formulation described in:
 
-- LeGrand, S. L., Polashenski, C., Letcher, T. W., Creighton, G. A., Peckham, S. E., & Cetola, J. D. (2019). *The AFWA dust emission scheme for the GOCART aerosol model in WRF-Chem v3.8.1*. Geoscientific Model Development. [https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016MS000823](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016MS000823)
+- Foroutan et al.(2017). *Development and evaluation of a physics-based windblown dust emission scheme implemented in the CMAQ modeling system*. Journal of Advances in Modeling Earth Systems. [https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016MS000823](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016MS000823)
 
 Additional references used for the threshold friction velocity and particle-size distribution routines:
 
