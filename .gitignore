@@ -11,6 +11,19 @@ outputs
 Inputs
 Outputs
 
+# Scripts de análise
+scripts/analiseMeses.py
+scripts/analisewindBlowDust.py
+scripts/metodologia.py
+scripts/objetivo01.py
+scripts/objetivo02.py
+scripts/objetivo03.py
+scripts/objetivo_01.py
+scripts/objetivo_02.py
+
+# Figuras geradas
+scripts/serie_temporal_pm10_medio.png
+
 # Distribution / packaging
 .Python
 build/
@@ -171,13 +184,5 @@ figures
 tables
 wrf-python
 
-scripts/analiseMeses.py
-scripts/analisewindBlowDust.py
-scripts/metodologia.py
-scripts/objetivo01.py
-scripts/objetivo02.py
-scripts/objetivo03.py
-scripts/objetivo_01.py
-scripts/objetivo_02.py
-scripts/serie_temporal_pm10_medio.png
+
 
