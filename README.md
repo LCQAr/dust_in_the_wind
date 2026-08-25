@@ -105,3 +105,12 @@ Results are written to the output folder defined in `outfolder`, including:
 - netCDF files with fine PM (`PMFINE`), coarse PM (`PMC`), and PM10 emissions per grid cell and per hour
 - A netCDF file with the chemically speciated emissions
 - Diagnostic figures (ustar, roughness, clay content, emission fluxes, etc.) for result verification
+
+## Developers
+
+Leonardo Hoinaski
+José Henrique Hess
+Camilo Bastos Ribeiro
+Robson Will
+Rizzieri Pedruzzi
+Taciana Toledo de Almeida Albuquerque
