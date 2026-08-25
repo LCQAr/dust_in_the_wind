@@ -171,13 +171,13 @@ figures
 tables
 wrf-python
 
-scripts/analiseMeses.py
-scripts/analisewindBlowDust.py
-scripts/metodologia.py
-scripts/objetivo01.py
-scripts/objetivo02.py
-scripts/objetivo03.py
-scripts/objetivo_01.py
-scripts/objetivo_02.py
-scripts/serie_temporal_pm10_medio.png
+analiseMeses.py
+analisewindBlowDust.py
+metodologia.py
+objetivo01.py
+objetivo02.py
+objetivo03.py
+objetivo_01.py
+objetivo_02.py
+serie_temporal_pm10_medio.png
 

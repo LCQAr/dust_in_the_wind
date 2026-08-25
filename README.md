@@ -108,9 +108,9 @@ Results are written to the output folder defined in `outfolder`, including:
 
 ## Developers
 
-Leonardo Hoinaski
-José Henrique Hess
-Camilo Bastos Ribeiro
-Robson Will
-Rizzieri Pedruzzi
-Taciana Toledo de Almeida Albuquerque
+- Leonardo Hoinaski
+- José Henrique Hess
+- Camilo Bastos Ribeiro
+- Robson Will
+- Rizzieri Pedruzzi
+- Taciana Toledo de Almeida Albuquerque
